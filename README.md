@@ -1,2 +1,4 @@
 # PAMN
 Codelabs para Asignatura de PAMN
+Para empezar estuve haciendo de los obsoletos, el codelab 1 y lo terminé  con el proyecto de diceRoller.
+Después seguí con el segundo de about me y tras ver que estaba obsoleto me decanté por cambiar a los otros codelabs y he comenzado por el unit 2.
