@@ -7,3 +7,12 @@ He avanzado bastante en el unit 2 de los codelabs de Kotlin, sigo con el proyect
 25/10/2022
 He comenzado con la parte de Get user input in an app: Part 2
 
+
+30/10/2022:
+  Terminada el codelab Cómo cambiar el tema de una app 
+  (Hemos estado trabajando Minxi y yo en el trabajo final y con el diseño del     proyecto)
+
+
+
+
+
