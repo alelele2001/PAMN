@@ -11,6 +11,11 @@ He comenzado con la parte de Get user input in an app: Part 2
 30/10/2022:
   Terminada el codelab Cómo cambiar el tema de una app 
   (Hemos estado trabajando Minxi y yo en el trabajo final y con el diseño del     proyecto)
+  
+  
+ 06/11/2022
+  Hemos comenzado con la implementación del login, y decidido que vamos ha hacer login solo por mail y contraseña. Ya está el proyecto creado.
+  Estamos implementando el login y el registro. Hemos decidido poner un splash también.
 
 
 
