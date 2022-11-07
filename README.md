@@ -14,8 +14,11 @@ He comenzado con la parte de Get user input in an app: Part 2
   
   
  06/11/2022
-  Hemos comenzado con la implementación del login, y decidido que vamos ha hacer login solo por mail y contraseña. Ya está el proyecto creado.
-  Estamos implementando el login y el registro. Hemos decidido poner un splash también.
+  Hemos comenzado con la implementación del splash y login, y decidido que vamos ha hacer login solo por mail y contraseña. Ya está el proyecto creado.
+  Estamos implementando el splash, el login, el registro. 
+  
+  07/11/2022
+   Organizando el trello y ponniendo las tareas y la idea es crear el splash hoy. https://www.youtube.com/watch?v=ksaaMt8Lo6U
 
 
 
