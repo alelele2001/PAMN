@@ -19,6 +19,26 @@ He comenzado con la parte de Get user input in an app: Part 2
   
   07/11/2022
    Organizando el trello y ponniendo las tareas y la idea es crear el splash hoy. https://www.youtube.com/watch?v=ksaaMt8Lo6U
+   
+   En la memoria se explica en detalle como se ha avanzado en el proyecto. No hicimos uso de más codelabs ya que no nos fueron de gran ayuda y pudimos guiarnos mejor usando vídeos explicativos:
+   
+   https://www.youtube.com/watch?v=2_6FidXtCBA
+
+  https://www.youtube.com/watch?v=zShuYIwMjOo&t=1927s
+  https://developer.android.com/studio/run/emulator-acceleration?hl=es-419
+  
+  https://www.youtube.com/watch?v=J2nuk1Q_bNs
+  
+  https://www.youtube.com/watch?v=NSqORENpaTM
+  
+  
+  
+  Link al proyecto comprimido en zip:
+  https://alumnosulpgc-my.sharepoint.com/:u:/g/personal/alejandro_viera104_alu_ulpgc_es/ESR2Uky_uwRKs_QmdP2dshsB3MxLPnuLmk96pAhf4ONEBQ?e=DaDduO
+  
+  Link a la memoria del proyecto:
+  https://alumnosulpgc-my.sharepoint.com/:b:/g/personal/alejandro_viera104_alu_ulpgc_es/EYv8KPOXj0NEuYj964nIa84Bv61hagARHflNahHDhSWCsQ?e=ukiFkQ
+
 
 
 
